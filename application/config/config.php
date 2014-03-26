@@ -18,6 +18,7 @@
 
 /////I WANNA SEE THIS IN NEW BRANCH
 $config['base_url']	= '';
+//// AND THIS TOO PLEASE
 
 /*
 |--------------------------------------------------------------------------
