@@ -14,6 +14,9 @@
 | path to your installation.
 |
 */
+
+
+/////I WANNA SEE THIS IN NEW BRANCH
 $config['base_url']	= '';
 
 /*
